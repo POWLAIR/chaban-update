@@ -2,8 +2,8 @@ name: Update Pont Chaban Calendar
 
 on:
   schedule:
-    - cron: "0 5 */2 * *"   # Toutes les 48h à 5h UTC (7h Paris)
-  workflow_dispatch:          # Déclenchement manuel depuis l'onglet Actions
+    - cron: "0 5 */2 * *"  # Toutes les 48h à 5h UTC (7h Paris)
+  workflow_dispatch:         # Déclenchement manuel depuis l'onglet Actions
 
 jobs:
   update:
