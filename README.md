@@ -23,15 +23,19 @@ python generate_calendar.py
 
 Le fichier `docs/pont_chaban.ics` est créé localement.
 
-## Mise en place sur GitHub
-
-1. Pusher ce repo sur GitHub (repo **public**)
-2. Activer GitHub Pages : *Settings → Pages → Deploy from branch `main` → `/docs`*
-3. Déclencher le premier workflow : *Actions → Update Pont Chaban Calendar → Run workflow*
-4. L'URL du calendrier sera : `https://<ton-user>.github.io/<nom-repo>/pont_chaban.ics`
-
 ## Abonnement Google Calendar
 
-*Autres agendas → Depuis l'URL → coller l'URL ci-dessus*
+*Autres agendas → Depuis l'URL → coller l'URL ci-dessous*
+
+```
+https://powlair.github.io/chaban-update/pont_chaban.ics
+```
 
 Google Calendar rafraîchit les agendas externes toutes les 12-24h environ.
+
+## Mise en place sur GitHub (pour un fork)
+
+1. Pusher ce repo sur GitHub (repo **public**)
+2. Activer GitHub Pages : *Settings → Pages → Deploy from branch `master` → `/docs`*
+3. Déclencher le premier workflow : *Actions → Update Pont Chaban Calendar → Run workflow*
+4. L'URL du calendrier sera : `https://<ton-user>.github.io/<nom-repo>/pont_chaban.ics`
