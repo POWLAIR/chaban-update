@@ -1,0 +1,872 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pont Chaban-Delmas//FR
+X-WR-CALNAME:Pont Chaban-Delmas - Fermetures
+REFRESH-INTERVAL;VALUE=DURATION:P2D
+X-PUBLISHED-TTL:P2D
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEADREAM II
+DTSTART;TZID=Europe/Paris:20250510T133400
+DTEND;TZID=Europe/Paris:20250510T144200
+UID:ceca15fa-c7d4-5f42-bb61-17103de45cba
+DESCRIPTION:Bateau : SEADREAM II\nType   : Totale\nFermeture   : 13:34\nRe
+ ouverture : 14:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260118T230000
+DTEND;TZID=Europe/Paris:20260118T050000
+UID:e6aa4742-e406-5553-b476-653ec918669e
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260215T230000
+DTEND;TZID=Europe/Paris:20260215T050000
+UID:31268496-9aff-5ada-964b-225c17d3fc64
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260315T230000
+DTEND;TZID=Europe/Paris:20260315T050000
+UID:2517df54-2861-5d39-8a04-216bd6c3fc34
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BALMORAL
+DTSTART;TZID=Europe/Paris:20260410T114900
+DTEND;TZID=Europe/Paris:20260410T131200
+UID:a8932db9-ca25-5b21-9b32-21714a7b8d50
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 11:49\nReouv
+ erture : 13:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BALMORAL
+DTSTART;TZID=Europe/Paris:20260411T141900
+DTEND;TZID=Europe/Paris:20260411T154200
+UID:7713749c-44ca-57b3-b36d-d0a5f2a895ba
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 14:19\nReouv
+ erture : 15:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - HANSEATIC NATURE
+DTSTART;TZID=Europe/Paris:20260413T040400
+DTEND;TZID=Europe/Paris:20260413T051200
+UID:9fe1807b-7616-54b9-8f47-b6890df010de
+DESCRIPTION:Bateau : HANSEATIC NATURE\nType   : Totale\nFermeture   : 04:0
+ 4\nReouverture : 05:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - HANSEATIC NATURE
+DTSTART;TZID=Europe/Paris:20260414T030400
+DTEND;TZID=Europe/Paris:20260414T042700
+UID:4cf5b86c-b2bc-5bb4-b132-124b58c264be
+DESCRIPTION:Bateau : HANSEATIC NATURE\nType   : Totale\nFermeture   : 03:0
+ 4\nReouverture : 04:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEABOURN OVATION
+DTSTART;TZID=Europe/Paris:20260422T103400
+DTEND;TZID=Europe/Paris:20260422T115700
+UID:dab2bb33-017b-5001-995b-e2f7cbf895e1
+DESCRIPTION:Bateau : SEABOURN OVATION\nType   : Totale\nFermeture   : 10:3
+ 4\nReouverture : 11:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEABOURN OVATION
+DTSTART;TZID=Europe/Paris:20260424T000400
+DTEND;TZID=Europe/Paris:20260424T012700
+UID:754622bc-cb90-51d0-acdc-82275e894b24
+DESCRIPTION:Bateau : SEABOURN OVATION\nType   : Totale\nFermeture   : 00:0
+ 4\nReouverture : 01:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - WORLD NAVIGATOR - PLASTIC ODYSSEY
+DTSTART;TZID=Europe/Paris:20260425T130400
+DTEND;TZID=Europe/Paris:20260425T142700
+UID:1da1a4c4-297c-50d8-939e-e60fc892e183
+DESCRIPTION:Bateau : WORLD NAVIGATOR - PLASTIC ODYSSEY\nType   : Totale\nF
+ ermeture   : 13:04\nReouverture : 14:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - WORLD NAVIGATOR
+DTSTART;TZID=Europe/Paris:20260426T144900
+DTEND;TZID=Europe/Paris:20260426T161200
+UID:226a5288-6de8-53a8-8ca2-de9908d52349
+DESCRIPTION:Bateau : WORLD NAVIGATOR\nType   : Totale\nFermeture   : 14:49
+ \nReouverture : 16:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - LE BELLOT
+DTSTART;TZID=Europe/Paris:20260428T051900
+DTEND;TZID=Europe/Paris:20260428T062700
+UID:9d12a07a-e118-5e34-8393-3fa26252b79f
+DESCRIPTION:Bateau : LE BELLOT\nType   : Totale\nFermeture   : 05:19\nReou
+ verture : 06:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - LE BELLOT - FRIDJTOF NANSEN
+DTSTART;TZID=Europe/Paris:20260429T173400
+DTEND;TZID=Europe/Paris:20260429T201200
+UID:84da0b84-f6d6-52f0-8374-352a1b13b1c5
+DESCRIPTION:Bateau : LE BELLOT - FRIDJTOF NANSEN\nType   : Totale\nFermetu
+ re   : 17:34\nReouverture : 20:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - FRIDJTOF NANSEN
+DTSTART;TZID=Europe/Paris:20260429T060400
+DTEND;TZID=Europe/Paris:20260429T071200
+UID:2c57e547-4739-5b14-8f55-e259f02f8707
+DESCRIPTION:Bateau : FRIDJTOF NANSEN\nType   : Totale\nFermeture   : 06:04
+ \nReouverture : 07:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EUROPA 2
+DTSTART;TZID=Europe/Paris:20260506T093400
+DTEND;TZID=Europe/Paris:20260506T105700
+UID:1d5faab3-6dcc-5678-a08e-12ece47fed36
+DESCRIPTION:Bateau : EUROPA 2\nType   : Totale\nFermeture   : 09:34\nReouv
+ erture : 10:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EUROPA 2 - PLASTIC ODYSSEY
+DTSTART;TZID=Europe/Paris:20260507T213400
+DTEND;TZID=Europe/Paris:20260507T231200
+UID:8d8fcacf-79a7-5701-ab0c-41701175a5a2
+DESCRIPTION:Bateau : EUROPA 2 - PLASTIC ODYSSEY\nType   : Totale\nFermetur
+ e   : 21:34\nReouverture : 23:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEADREAM II
+DTSTART;TZID=Europe/Paris:20260511T184900
+DTEND;TZID=Europe/Paris:20260511T201200
+UID:a09e300f-e278-5165-9e73-b824e08da45e
+DESCRIPTION:Bateau : SEADREAM II\nType   : Totale\nFermeture   : 18:49\nRe
+ ouverture : 20:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMBITION
+DTSTART;TZID=Europe/Paris:20260513T040400
+DTEND;TZID=Europe/Paris:20260513T052700
+UID:d0195167-f249-578c-83be-d7e16496adf4
+DESCRIPTION:Bateau : AMBITION\nType   : Totale\nFermeture   : 04:04\nReouv
+ erture : 05:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - L'AUSTRAL
+DTSTART;TZID=Europe/Paris:20260513T164900
+DTEND;TZID=Europe/Paris:20260513T175700
+UID:1d9f8150-d861-59d9-9555-3b5cbb5773c3
+DESCRIPTION:Bateau : L'AUSTRAL\nType   : Totale\nFermeture   : 16:49\nReou
+ verture : 17:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMBITION
+DTSTART;TZID=Europe/Paris:20260514T173400
+DTEND;TZID=Europe/Paris:20260514T185700
+UID:18cc02be-c9d5-59eb-8b16-d1dfdbe18417
+DESCRIPTION:Bateau : AMBITION\nType   : Totale\nFermeture   : 17:34\nReouv
+ erture : 18:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - L'AUSTRAL
+DTSTART;TZID=Europe/Paris:20260515T060400
+DTEND;TZID=Europe/Paris:20260515T072700
+UID:b5400568-ce7a-51ae-a1a4-bee9361be565
+DESCRIPTION:Bateau : L'AUSTRAL\nType   : Totale\nFermeture   : 06:04\nReou
+ verture : 07:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDALUNA
+DTSTART;TZID=Europe/Paris:20260516T062400
+DTEND;TZID=Europe/Paris:20260516T074700
+UID:f3814817-9ab9-5cc1-91ca-fb09cd5cb5e9
+DESCRIPTION:Bateau : AIDALUNA\nType   : Totale\nFermeture   : 06:24\nReouv
+ erture : 07:47
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDALUNA
+DTSTART;TZID=Europe/Paris:20260516T180400
+DTEND;TZID=Europe/Paris:20260516T192700
+UID:f3814817-9ab9-5cc1-91ca-fb09cd5cb5e9
+DESCRIPTION:Bateau : AIDALUNA\nType   : Totale\nFermeture   : 18:04\nReouv
+ erture : 19:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MARINA - SCENIC ECLIPSE
+DTSTART;TZID=Europe/Paris:20260518T080400
+DTEND;TZID=Europe/Paris:20260518T094700
+UID:7afebb6e-c108-595f-b48b-fed0fbee4858
+DESCRIPTION:Bateau : MARINA - SCENIC ECLIPSE\nType   : Totale\nFermeture  
+  : 08:04\nReouverture : 09:47
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SH DIANA - SCENIC ECLIPSE
+DTSTART;TZID=Europe/Paris:20260520T095900
+DTEND;TZID=Europe/Paris:20260520T112700
+UID:8a66836d-2adf-5e37-8c44-2dd7be8d225a
+DESCRIPTION:Bateau : SH DIANA - SCENIC ECLIPSE\nType   : Totale\nFermeture
+    : 09:59\nReouverture : 11:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MARINA
+DTSTART;TZID=Europe/Paris:20260520T210400
+DTEND;TZID=Europe/Paris:20260520T222700
+UID:1e39e3fd-1e6d-5799-8022-71db9fe2055b
+DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 21:04\nReouver
+ ture : 22:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260521T103400
+DTEND;TZID=Europe/Paris:20260521T115700
+UID:cc480c05-1921-5c34-924b-6394735ef5b6
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 10:34\n
+ Reouverture : 11:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SH DIANA
+DTSTART;TZID=Europe/Paris:20260521T213400
+DTEND;TZID=Europe/Paris:20260521T225700
+UID:0eb9c54f-055e-5ffa-82d3-89060eda087b
+DESCRIPTION:Bateau : SH DIANA\nType   : Totale\nFermeture   : 21:34\nReouv
+ erture : 22:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260523T131900
+DTEND;TZID=Europe/Paris:20260523T144200
+UID:00524dcc-a27b-506b-8fee-8f17560f4bf9
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 13:19\n
+ Reouverture : 14:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20260531T193400
+DTEND;TZID=Europe/Paris:20260531T205700
+UID:4d4b6289-ed7b-575d-90a4-22d150c9d0d7
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 19:34\nRe
+ ouverture : 20:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20260602T191900
+DTEND;TZID=Europe/Paris:20260602T204200
+UID:c1235d07-8de9-5cb5-9611-ea31ec052283
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 19:19\nRe
+ ouverture : 20:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - STAR LEGEND
+DTSTART;TZID=Europe/Paris:20260602T083400
+DTEND;TZID=Europe/Paris:20260602T094200
+UID:b63eb397-f6d6-569a-9bcb-1407fb7c5a0f
+DESCRIPTION:Bateau : STAR LEGEND\nType   : Totale\nFermeture   : 08:34\nRe
+ ouverture : 09:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - STAR LEGEND
+DTSTART;TZID=Europe/Paris:20260603T184900
+DTEND;TZID=Europe/Paris:20260603T201200
+UID:ecdf7a08-cbc2-5de5-9ee8-ff096ad46147
+DESCRIPTION:Bateau : STAR LEGEND\nType   : Totale\nFermeture   : 18:49\nRe
+ ouverture : 20:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EUROPA
+DTSTART;TZID=Europe/Paris:20260605T101900
+DTEND;TZID=Europe/Paris:20260605T112700
+UID:050fe3e7-f02e-5d2a-bd83-c5d1be86dca5
+DESCRIPTION:Bateau : EUROPA\nType   : Totale\nFermeture   : 10:19\nReouver
+ ture : 11:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EUROPA
+DTSTART;TZID=Europe/Paris:20260606T214900
+DTEND;TZID=Europe/Paris:20260606T231200
+UID:c96fb12a-a7d6-538b-8860-75872c02f090
+DESCRIPTION:Bateau : EUROPA\nType   : Totale\nFermeture   : 21:49\nReouver
+ ture : 23:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - VISTA
+DTSTART;TZID=Europe/Paris:20260609T010400
+DTEND;TZID=Europe/Paris:20260609T022700
+UID:00fb8073-2e6e-5b15-899c-7c08ae173579
+DESCRIPTION:Bateau : VISTA\nType   : Totale\nFermeture   : 01:04\nReouvert
+ ure : 02:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS GRANDEUR
+DTSTART;TZID=Europe/Paris:20260610T021900
+DTEND;TZID=Europe/Paris:20260610T034200
+UID:23e85927-1fa4-545f-a1e3-6bff811127b2
+DESCRIPTION:Bateau : SEVEN SEAS GRANDEUR\nType   : Totale\nFermeture   : 0
+ 2:19\nReouverture : 03:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - VISTA
+DTSTART;TZID=Europe/Paris:20260610T150400
+DTEND;TZID=Europe/Paris:20260610T162700
+UID:92a23b2a-7276-588b-9e76-212b926cae43
+DESCRIPTION:Bateau : VISTA\nType   : Totale\nFermeture   : 15:04\nReouvert
+ ure : 16:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS GRANDEUR
+DTSTART;TZID=Europe/Paris:20260611T160400
+DTEND;TZID=Europe/Paris:20260611T172700
+UID:e3ef7103-2a89-5e13-aeb7-3478a198c862
+DESCRIPTION:Bateau : SEVEN SEAS GRANDEUR\nType   : Totale\nFermeture   : 1
+ 6:04\nReouverture : 17:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AZAMARA QUEST
+DTSTART;TZID=Europe/Paris:20260615T073400
+DTEND;TZID=Europe/Paris:20260615T084200
+UID:59fe20a6-6bfd-5ae3-a0cf-8f4716ebdca5
+DESCRIPTION:Bateau : AZAMARA QUEST\nType   : Totale\nFermeture   : 07:34\n
+ Reouverture : 08:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AZAMARA QUEST
+DTSTART;TZID=Europe/Paris:20260617T191900
+DTEND;TZID=Europe/Paris:20260617T204200
+UID:aa120ac6-d336-54b0-8336-aa5ad2f82e1f
+DESCRIPTION:Bateau : AZAMARA QUEST\nType   : Totale\nFermeture   : 19:19\n
+ Reouverture : 20:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EVRIMA
+DTSTART;TZID=Europe/Paris:20260624T024900
+DTEND;TZID=Europe/Paris:20260624T035700
+UID:9d37dda5-7ddc-53d6-865d-86ce65dcccce
+DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 02:49\nReouver
+ ture : 03:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EVRIMA
+DTSTART;TZID=Europe/Paris:20260625T163400
+DTEND;TZID=Europe/Paris:20260625T175700
+UID:1f64f5d0-77ee-5175-9667-904f290fb7ad
+DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 16:34\nReouver
+ ture : 17:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - ILMA
+DTSTART;TZID=Europe/Paris:20260627T053400
+DTEND;TZID=Europe/Paris:20260627T065700
+UID:53c2c54b-b961-566f-909c-764e396c07b8
+DESCRIPTION:Bateau : ILMA\nType   : Totale\nFermeture   : 05:34\nReouvertu
+ re : 06:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - ILMA
+DTSTART;TZID=Europe/Paris:20260628T190400
+DTEND;TZID=Europe/Paris:20260628T202700
+UID:59d97694-eaa6-5ddf-adcb-e5d4897dc5ab
+DESCRIPTION:Bateau : ILMA\nType   : Totale\nFermeture   : 19:04\nReouvertu
+ re : 20:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - CRYSTAL SERENITY - BELEM
+DTSTART;TZID=Europe/Paris:20260702T084900
+DTEND;TZID=Europe/Paris:20260702T102700
+UID:e0d2f716-347e-5cca-855d-f5e3e1600e15
+DESCRIPTION:Bateau : CRYSTAL SERENITY - BELEM\nType   : Totale\nFermeture 
+   : 08:49\nReouverture : 10:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - CRYSTAL SERENITY
+DTSTART;TZID=Europe/Paris:20260704T100400
+DTEND;TZID=Europe/Paris:20260704T112700
+UID:07abbcaf-d6f4-5ba1-a6ce-e2e1a529ec41
+DESCRIPTION:Bateau : CRYSTAL SERENITY\nType   : Totale\nFermeture   : 10:0
+ 4\nReouverture : 11:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BELEM - BALMORAL
+DTSTART;TZID=Europe/Paris:20260706T103400
+DTEND;TZID=Europe/Paris:20260706T124200
+UID:b3f30f06-185e-5a01-8110-d9f082744747
+DESCRIPTION:Bateau : BELEM - BALMORAL\nType   : Totale\nFermeture   : 10:3
+ 4\nReouverture : 12:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BALMORAL
+DTSTART;TZID=Europe/Paris:20260708T233400
+DTEND;TZID=Europe/Paris:20260708T005700
+UID:63b73bf5-bbfb-5fbb-aed4-3bb9787b5129
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 23:34\nReouv
+ erture : 00:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS NAVIGATOR
+DTSTART;TZID=Europe/Paris:20260712T053400
+DTEND;TZID=Europe/Paris:20260712T064200
+UID:224d9732-fdc6-59d8-a735-c7cb91468091
+DESCRIPTION:Bateau : SEVEN SEAS NAVIGATOR\nType   : Totale\nFermeture   : 
+ 05:34\nReouverture : 06:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS NAVIGATOR
+DTSTART;TZID=Europe/Paris:20260713T173400
+DTEND;TZID=Europe/Paris:20260713T185700
+UID:f8e243d0-283c-5b3c-a278-c13c212a95d7
+DESCRIPTION:Bateau : SEVEN SEAS NAVIGATOR\nType   : Totale\nFermeture   : 
+ 17:34\nReouverture : 18:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SCENIC ECLIPSE II
+DTSTART;TZID=Europe/Paris:20260719T111900
+DTEND;TZID=Europe/Paris:20260719T122700
+UID:807159e4-1e82-5aa2-98c2-7e2126260b05
+DESCRIPTION:Bateau : SCENIC ECLIPSE II\nType   : Totale\nFermeture   : 11:
+ 19\nReouverture : 12:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SCENIC ECLIPSE II
+DTSTART;TZID=Europe/Paris:20260721T120400
+DTEND;TZID=Europe/Paris:20260721T132700
+UID:431697be-7aa3-5aa8-b0b1-8625f5d7fcbe
+DESCRIPTION:Bateau : SCENIC ECLIPSE II\nType   : Totale\nFermeture   : 12:
+ 04\nReouverture : 13:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS VOYAGER
+DTSTART;TZID=Europe/Paris:20260723T011900
+DTEND;TZID=Europe/Paris:20260723T024200
+UID:37663ae9-cd23-5f56-b4d2-7948dbc59260
+DESCRIPTION:Bateau : SEVEN SEAS VOYAGER\nType   : Totale\nFermeture   : 01
+ :19\nReouverture : 02:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS VOYAGER
+DTSTART;TZID=Europe/Paris:20260724T153400
+DTEND;TZID=Europe/Paris:20260724T165700
+UID:06dea2ba-a56e-5933-b1d7-a1f1e0fa79a8
+DESCRIPTION:Bateau : SEVEN SEAS VOYAGER\nType   : Totale\nFermeture   : 15
+ :34\nReouverture : 16:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260726T163000
+DTEND;TZID=Europe/Paris:20260726T223000
+UID:8ccf6f1d-e05f-555e-a48c-76009037b2a3
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 16:30\nRe
+ ouverture : 22:30
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260803T220400
+DTEND;TZID=Europe/Paris:20260803T232700
+UID:3829f3cd-d3d8-53ba-a41f-d9ac96f006f3
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 22:04\nReouve
+ rture : 23:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260803T103400
+DTEND;TZID=Europe/Paris:20260803T115700
+UID:3829f3cd-d3d8-53ba-a41f-d9ac96f006f3
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 10:34\nReouve
+ rture : 11:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260814T194900
+DTEND;TZID=Europe/Paris:20260814T211200
+UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 19:49\nReouve
+ rture : 21:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260814T083400
+DTEND;TZID=Europe/Paris:20260814T095700
+UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 08:34\nReouve
+ rture : 09:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260816T230000
+DTEND;TZID=Europe/Paris:20260816T050000
+UID:d0385001-b142-529b-88a6-d9eb243ed7ad
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
+DTSTART;TZID=Europe/Paris:20260822T150400
+DTEND;TZID=Europe/Paris:20260822T161200
+UID:42b8d3e0-3590-5235-9538-30b7ef929aa5
+DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 15:04\
+ nReouverture : 16:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AZAMARA QUEST
+DTSTART;TZID=Europe/Paris:20260823T034900
+DTEND;TZID=Europe/Paris:20260823T045700
+UID:553a7564-ee16-5ca8-bdc7-e46548dcf43c
+DESCRIPTION:Bateau : AZAMARA QUEST\nType   : Totale\nFermeture   : 03:49\n
+ Reouverture : 04:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
+DTSTART;TZID=Europe/Paris:20260823T140400
+DTEND;TZID=Europe/Paris:20260823T152700
+UID:4c382a53-089c-5720-99cc-78bc69db50c3
+DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 14:04\
+ nReouverture : 15:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AZAMARA QUEST - STAR LEGEND
+DTSTART;TZID=Europe/Paris:20260825T174900
+DTEND;TZID=Europe/Paris:20260825T194200
+UID:9d722f34-c174-57ee-ad63-ca53b687e843
+DESCRIPTION:Bateau : AZAMARA QUEST - STAR LEGEND\nType   : Totale\nFermetu
+ re   : 17:49\nReouverture : 19:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - STAR LEGEND
+DTSTART;TZID=Europe/Paris:20260828T073400
+DTEND;TZID=Europe/Paris:20260828T085700
+UID:d974cae0-ea66-51c3-8359-7d89399fe687
+DESCRIPTION:Bateau : STAR LEGEND\nType   : Totale\nFermeture   : 07:34\nRe
+ ouverture : 08:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EVRIMA - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260831T092900
+DTEND;TZID=Europe/Paris:20260831T113200
+UID:caa068de-be90-546a-9673-aa5e34cdd4c7
+DESCRIPTION:Bateau : EVRIMA - SILVER SPIRIT\nType   : Totale\nFermeture   
+ : 09:29\nReouverture : 11:32
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - EVRIMA
+DTSTART;TZID=Europe/Paris:20260901T094400
+DTEND;TZID=Europe/Paris:20260901T110700
+UID:19fd97a5-71fa-51ce-97cc-6ca2f0536566
+DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 09:44\nReouver
+ ture : 11:07
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260902T103400
+DTEND;TZID=Europe/Paris:20260902T115700
+UID:c2ddd279-3f81-598a-aa23-23182b4f8292
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 10:34\n
+ Reouverture : 11:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS MARINER
+DTSTART;TZID=Europe/Paris:20260910T070400
+DTEND;TZID=Europe/Paris:20260910T082700
+UID:92f2dc50-4a2b-5e3e-883c-c8567d7b8b36
+DESCRIPTION:Bateau : SEVEN SEAS MARINER\nType   : Totale\nFermeture   : 07
+ :04\nReouverture : 08:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEADREAM II
+DTSTART;TZID=Europe/Paris:20260911T161900
+DTEND;TZID=Europe/Paris:20260911T172700
+UID:63c07132-2319-53a1-bcc1-c2bc255e0574
+DESCRIPTION:Bateau : SEADREAM II\nType   : Totale\nFermeture   : 16:19\nRe
+ ouverture : 17:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEVEN SEAS MARINER
+DTSTART;TZID=Europe/Paris:20260911T184900
+DTEND;TZID=Europe/Paris:20260911T201200
+UID:fd5c6653-93c9-5682-a8a6-dd5cce782136
+DESCRIPTION:Bateau : SEVEN SEAS MARINER\nType   : Totale\nFermeture   : 18
+ :49\nReouverture : 20:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260912T081900
+DTEND;TZID=Europe/Paris:20260912T094200
+UID:04e5e542-1f72-5d17-b737-b6929696dfed
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 08:19\n
+ Reouverture : 09:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SEADREAM II
+DTSTART;TZID=Europe/Paris:20260912T151900
+DTEND;TZID=Europe/Paris:20260912T164200
+UID:712b38ab-2a49-5f9f-9651-8842fccc6a59
+DESCRIPTION:Bateau : SEADREAM II\nType   : Totale\nFermeture   : 15:19\nRe
+ ouverture : 16:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - ILMA
+DTSTART;TZID=Europe/Paris:20260913T084900
+DTEND;TZID=Europe/Paris:20260913T101200
+UID:83f75fbd-98c0-54fc-bf76-6513e1004976
+DESCRIPTION:Bateau : ILMA\nType   : Totale\nFermeture   : 08:49\nReouvertu
+ re : 10:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER SPIRIT
+DTSTART;TZID=Europe/Paris:20260913T204900
+DTEND;TZID=Europe/Paris:20260913T221200
+UID:48ee61a1-566c-5012-a414-1fd2afd02402
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 20:49\n
+ Reouverture : 22:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL - ILMA
+DTSTART;TZID=Europe/Paris:20260914T090400
+DTEND;TZID=Europe/Paris:20260914T104200
+UID:a2852bbd-d1e3-5843-95ae-d1bc30f899d5
+DESCRIPTION:Bateau : AIDASOL - ILMA\nType   : Totale\nFermeture   : 09:04\
+ nReouverture : 10:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260914T204900
+DTEND;TZID=Europe/Paris:20260914T221200
+UID:760b2573-66e0-5a5d-aaa2-625d544be6be
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 20:49\nReouve
+ rture : 22:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MARINA
+DTSTART;TZID=Europe/Paris:20260919T121900
+DTEND;TZID=Europe/Paris:20260919T134200
+UID:5dc5579c-10a2-5b60-8774-31ba87e594be
+DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 12:19\nReouver
+ ture : 13:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MARINA
+DTSTART;TZID=Europe/Paris:20260920T133400
+DTEND;TZID=Europe/Paris:20260920T145700
+UID:df1bbca0-ae02-5612-bf74-21345e59b7cd
+DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 13:34\nReouver
+ ture : 14:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20260923T044900
+DTEND;TZID=Europe/Paris:20260923T061200
+UID:fbcbbb4f-c8f9-575f-bbd2-c4e221291c9b
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 04:49\nRe
+ ouverture : 06:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - INSIGNA
+DTSTART;TZID=Europe/Paris:20260925T061900
+DTEND;TZID=Europe/Paris:20260925T072700
+UID:089e41b3-01d2-5852-bdd9-266aa8e34a07
+DESCRIPTION:Bateau : INSIGNA\nType   : Totale\nFermeture   : 06:19\nReouve
+ rture : 07:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20260925T174900
+DTEND;TZID=Europe/Paris:20260925T191200
+UID:d5373659-1f72-527a-b725-6c421d8915fc
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:49\nRe
+ ouverture : 19:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - INSIGNA
+DTSTART;TZID=Europe/Paris:20260926T170400
+DTEND;TZID=Europe/Paris:20260926T182700
+UID:62042d8c-38c1-56f8-b4fe-2941719e7251
+DESCRIPTION:Bateau : INSIGNA\nType   : Totale\nFermeture   : 17:04\nReouve
+ rture : 18:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - LE LAPEROUSE
+DTSTART;TZID=Europe/Paris:20261001T224900
+DTEND;TZID=Europe/Paris:20261001T235700
+UID:8e433730-cb9a-5fbf-88c8-f5300cbcf4a4
+DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 22:49\nR
+ eouverture : 23:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - LE LAPEROUSE
+DTSTART;TZID=Europe/Paris:20261002T183400
+DTEND;TZID=Europe/Paris:20261002T195700
+UID:e55f8efe-2459-5f05-ae84-b3bd6a6d1e1d
+DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 18:34\nR
+ eouverture : 19:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - VIKING SATURN
+DTSTART;TZID=Europe/Paris:20261004T131900
+DTEND;TZID=Europe/Paris:20261004T142700
+UID:3fda356a-e17e-52e9-903d-2f5bf32a61bf
+DESCRIPTION:Bateau : VIKING SATURN\nType   : Totale\nFermeture   : 13:19\n
+ Reouverture : 14:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - WORLD VOYAGER - VIKING SATURN
+DTSTART;TZID=Europe/Paris:20261005T140400
+DTEND;TZID=Europe/Paris:20261005T152700
+UID:c32e2131-ed46-50b3-ad1a-c530fd04cae2
+DESCRIPTION:Bateau : WORLD VOYAGER - VIKING SATURN\nType   : Totale\nFerme
+ ture   : 14:04\nReouverture : 15:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - WORLD VOYAGER
+DTSTART;TZID=Europe/Paris:20261006T161900
+DTEND;TZID=Europe/Paris:20261006T174200
+UID:b353aa52-e039-5406-8797-a3f8582d3d51
+DESCRIPTION:Bateau : WORLD VOYAGER\nType   : Totale\nFermeture   : 16:19\n
+ Reouverture : 17:42
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20261007T170400
+DTEND;TZID=Europe/Paris:20261007T182700
+UID:61e534e9-6baf-5225-9d4a-81145effd116
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:04\nRe
+ ouverture : 18:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20261009T173400
+DTEND;TZID=Europe/Paris:20261009T185700
+UID:56cd30e4-9430-5e55-a17c-2c55a3bcfabc
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:34\nRe
+ ouverture : 18:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20261017T103400
+DTEND;TZID=Europe/Paris:20261017T115700
+UID:a6114e0a-5bb8-513e-9a6f-df40d50e1e2a
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 10:34\nRe
+ ouverture : 11:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SILVER DAWN
+DTSTART;TZID=Europe/Paris:20261019T113400
+DTEND;TZID=Europe/Paris:20261019T125700
+UID:c6255a85-3f9e-5750-94e6-29dc845af7ef
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 11:34\nRe
+ ouverture : 12:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMERA
+DTSTART;TZID=Europe/Paris:20261022T163400
+DTEND;TZID=Europe/Paris:20261022T175700
+UID:5a104191-2b6f-53c2-98c8-d31fbc9dfc47
+DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:34\nReouvert
+ ure : 17:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMERA
+DTSTART;TZID=Europe/Paris:20261023T164900
+DTEND;TZID=Europe/Paris:20261023T181200
+UID:25a0242e-38f1-5789-b07b-9b2697969858
+DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:49\nReouvert
+ ure : 18:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+END:VCALENDAR
