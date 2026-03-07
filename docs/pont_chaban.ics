@@ -42,24 +42,6 @@ DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - IRIS
-DTSTART;TZID=Europe/Paris:20260326T113900
-DTEND;TZID=Europe/Paris:20260326T125700
-UID:5a1ab03d-e623-524f-9797-978afa683858
-DESCRIPTION:Bateau : IRIS\nType   : Totale\nFermeture   : 11:39\nReouvertu
- re : 12:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - IRIS
-DTSTART;TZID=Europe/Paris:20260327T123400
-DTEND;TZID=Europe/Paris:20260327T135700
-UID:e2a20043-f326-5527-8361-a222656589f7
-DESCRIPTION:Bateau : IRIS\nType   : Totale\nFermeture   : 12:34\nReouvertu
- re : 13:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - BALMORAL
 DTSTART;TZID=Europe/Paris:20260410T114900
 DTEND;TZID=Europe/Paris:20260410T131200
