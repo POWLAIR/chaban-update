@@ -105,12 +105,12 @@ DESCRIPTION:Bateau : WORLD NAVIGATOR - PLASTIC ODYSSEY\nType   : Totale\nF
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - WORLD NAVIGATOR
+SUMMARY:Pont Chaban ferme - WORLD NAVIGATOR - JOHN PAUL DEJORIA
 DTSTART;TZID=Europe/Paris:20260426T144900
-DTEND;TZID=Europe/Paris:20260426T161200
-UID:226a5288-6de8-53a8-8ca2-de9908d52349
-DESCRIPTION:Bateau : WORLD NAVIGATOR\nType   : Totale\nFermeture   : 14:49
- \nReouverture : 16:12
+DTEND;TZID=Europe/Paris:20260426T161700
+UID:0f888063-de9c-5953-b80b-383b4729f9c6
+DESCRIPTION:Bateau : WORLD NAVIGATOR - JOHN PAUL DEJORIA\nType   : Totale\
+ nFermeture   : 14:49\nReouverture : 16:17
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -141,12 +141,12 @@ DESCRIPTION:Bateau : FRIDJTOF NANSEN\nType   : Totale\nFermeture   : 06:04
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - EUROPA 2
+SUMMARY:Pont Chaban ferme - EUROPA 2 - JOHN PAUL DEJORIA
 DTSTART;TZID=Europe/Paris:20260506T093400
-DTEND;TZID=Europe/Paris:20260506T105700
-UID:1d5faab3-6dcc-5678-a08e-12ece47fed36
-DESCRIPTION:Bateau : EUROPA 2\nType   : Totale\nFermeture   : 09:34\nReouv
- erture : 10:57
+DTEND;TZID=Europe/Paris:20260506T110200
+UID:d8a7778d-4439-5aac-97c6-6673520a5c03
+DESCRIPTION:Bateau : EUROPA 2 - JOHN PAUL DEJORIA\nType   : Totale\nFermet
+ ure   : 09:34\nReouverture : 11:02
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
