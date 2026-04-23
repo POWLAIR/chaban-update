@@ -116,11 +116,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LE BELLOT
-DTSTART;TZID=Europe/Paris:20260428T051900
-DTEND;TZID=Europe/Paris:20260428T062700
-UID:9d12a07a-e118-5e34-8393-3fa26252b79f
-DESCRIPTION:Bateau : LE BELLOT\nType   : Totale\nFermeture   : 05:19\nReou
- verture : 06:27
+DTSTART;TZID=Europe/Paris:20260427T214900
+DTEND;TZID=Europe/Paris:20260427T225700
+UID:aa21dc02-654f-522d-9189-01f6b1e6d2fe
+DESCRIPTION:Bateau : LE BELLOT\nType   : Totale\nFermeture   : 21:49\nReou
+ verture : 22:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
