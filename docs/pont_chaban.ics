@@ -142,21 +142,21 @@ DESCRIPTION:Bateau : FRIDJTOF NANSEN\nType   : Totale\nFermeture   : 06:04
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - EUROPA 2 - JOHN PAUL DEJORIA
+SUMMARY:Pont Chaban ferme - EUROPA 2
 DTSTART;TZID=Europe/Paris:20260506T093400
-DTEND;TZID=Europe/Paris:20260506T110200
-UID:d8a7778d-4439-5aac-97c6-6673520a5c03
-DESCRIPTION:Bateau : EUROPA 2 - JOHN PAUL DEJORIA\nType   : Totale\nFermet
- ure   : 09:34\nReouverture : 11:02
+DTEND;TZID=Europe/Paris:20260506T105700
+UID:1d5faab3-6dcc-5678-a08e-12ece47fed36
+DESCRIPTION:Bateau : EUROPA 2\nType   : Totale\nFermeture   : 09:34\nReouv
+ erture : 10:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - EUROPA 2 - PLASTIC ODYSSEY
+SUMMARY:Pont Chaban ferme - EUROPA 2 - PLASTIC ODYSSEY- JOHN PAUL DEJORIA
 DTSTART;TZID=Europe/Paris:20260507T213400
-DTEND;TZID=Europe/Paris:20260507T231200
-UID:8d8fcacf-79a7-5701-ab0c-41701175a5a2
-DESCRIPTION:Bateau : EUROPA 2 - PLASTIC ODYSSEY\nType   : Totale\nFermetur
- e   : 21:34\nReouverture : 23:12
+DTEND;TZID=Europe/Paris:20260507T231700
+UID:1890381b-23f3-5ce8-8e11-ce29cf637edb
+DESCRIPTION:Bateau : EUROPA 2 - PLASTIC ODYSSEY- JOHN PAUL DEJORIA\nType  
+  : Totale\nFermeture   : 21:34\nReouverture : 23:17
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
