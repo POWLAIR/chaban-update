@@ -196,12 +196,12 @@ DESCRIPTION:Bateau : L'AUSTRAL\nType   : Totale\nFermeture   : 16:49\nReou
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AMBITION
+SUMMARY:Pont Chaban ferme - AMBITION - BSAM GARONNE
 DTSTART;TZID=Europe/Paris:20260514T173400
-DTEND;TZID=Europe/Paris:20260514T185700
-UID:18cc02be-c9d5-59eb-8b16-d1dfdbe18417
-DESCRIPTION:Bateau : AMBITION\nType   : Totale\nFermeture   : 17:34\nReouv
- erture : 18:57
+DTEND;TZID=Europe/Paris:20260514T190200
+UID:6e3faaac-74bb-546d-a6ea-51ecd8a20be0
+DESCRIPTION:Bateau : AMBITION - BSAM GARONNE\nType   : Totale\nFermeture  
+  : 17:34\nReouverture : 19:02
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -241,21 +241,21 @@ DESCRIPTION:Bateau : MARINA - SCENIC ECLIPSE\nType   : Totale\nFermeture
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SH DIANA - SCENIC ECLIPSE
-DTSTART;TZID=Europe/Paris:20260520T095900
-DTEND;TZID=Europe/Paris:20260520T112700
-UID:8a66836d-2adf-5e37-8c44-2dd7be8d225a
-DESCRIPTION:Bateau : SH DIANA - SCENIC ECLIPSE\nType   : Totale\nFermeture
-    : 09:59\nReouverture : 11:27
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - MARINA
 DTSTART;TZID=Europe/Paris:20260520T210400
 DTEND;TZID=Europe/Paris:20260520T222700
 UID:1e39e3fd-1e6d-5799-8022-71db9fe2055b
 DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 21:04\nReouver
  ture : 22:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - SH DIANA - SCENIC ECLIPSE - BSAM GARONNE
+DTSTART;TZID=Europe/Paris:20260520T095900
+DTEND;TZID=Europe/Paris:20260520T112700
+UID:2e1bd285-ca37-5162-8573-3d1d2c6db8b6
+DESCRIPTION:Bateau : SH DIANA - SCENIC ECLIPSE - BSAM GARONNE\nType   : To
+ tale\nFermeture   : 09:59\nReouverture : 11:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
