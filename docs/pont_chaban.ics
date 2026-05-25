@@ -314,11 +314,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - BANQUE POPULAIRE XI
-DTSTART;TZID=Europe/Paris:20260525T150400
-DTEND;TZID=Europe/Paris:20260525T161200
+DTSTART;TZID=Europe/Paris:20260525T204900
+DTEND;TZID=Europe/Paris:20260525T215700
 UID:c6e47e64-63b7-5c8c-898f-b53e8dce1e18
-DESCRIPTION:Bateau : BANQUE POPULAIRE XI\nType   : Totale\nFermeture   : 1
- 5:04\nReouverture : 16:12
+DESCRIPTION:Bateau : BANQUE POPULAIRE XI\nType   : Totale\nFermeture   : 2
+ 0:49\nReouverture : 21:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
