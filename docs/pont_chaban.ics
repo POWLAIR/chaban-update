@@ -369,28 +369,37 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - EUROPA - LAPEROUSE
 DTSTART;TZID=Europe/Paris:20260605T101900
-DTEND;TZID=Europe/Paris:20260605T114700
+DTEND;TZID=Europe/Paris:20260605T114200
 UID:d2cc161b-be30-5b86-9887-8fe0cdac65aa
 DESCRIPTION:Bateau : EUROPA - LAPEROUSE\nType   : Totale\nFermeture   : 10
- :19\nReouverture : 11:47
+ :19\nReouverture : 11:42
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - EUROPA
+SUMMARY:Pont Chaban ferme - EUROPA - DF32 SEUDRE
 DTSTART;TZID=Europe/Paris:20260606T214900
-DTEND;TZID=Europe/Paris:20260606T231200
-UID:c96fb12a-a7d6-538b-8860-75872c02f090
-DESCRIPTION:Bateau : EUROPA\nType   : Totale\nFermeture   : 21:49\nReouver
- ture : 23:12
+DTEND;TZID=Europe/Paris:20260606T231700
+UID:2e15f7a9-c38c-5043-823e-1df3db677a75
+DESCRIPTION:Bateau : EUROPA - DF32 SEUDRE\nType   : Totale\nFermeture   : 
+ 21:49\nReouverture : 23:17
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LAPEROUSE
-DTSTART;TZID=Europe/Paris:20260607T102400
-DTEND;TZID=Europe/Paris:20260607T114700
+DTSTART;TZID=Europe/Paris:20260607T113400
+DTEND;TZID=Europe/Paris:20260607T125700
 UID:bd5e24cb-a187-56cc-968c-e438815a2965
-DESCRIPTION:Bateau : LAPEROUSE\nType   : Totale\nFermeture   : 10:24\nReou
- verture : 11:47
+DESCRIPTION:Bateau : LAPEROUSE\nType   : Totale\nFermeture   : 11:34\nReou
+ verture : 12:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - DF 32 SEUDRE
+DTSTART;TZID=Europe/Paris:20260608T123400
+DTEND;TZID=Europe/Paris:20260608T135700
+UID:88c22ef1-d7fd-5630-9854-8c8878300bf8
+DESCRIPTION:Bateau : DF 32 SEUDRE\nType   : Totale\nFermeture   : 12:34\nR
+ eouverture : 13:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -896,15 +905,6 @@ DTEND;TZID=Europe/Paris:20261019T125700
 UID:c6255a85-3f9e-5750-94e6-29dc845af7ef
 DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 11:34\nRe
  ouverture : 12:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AMERA
-DTSTART;TZID=Europe/Paris:20261022T163400
-DTEND;TZID=Europe/Paris:20261022T175700
-UID:5a104191-2b6f-53c2-98c8-d31fbc9dfc47
-DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:34\nReouvert
- ure : 17:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 END:VCALENDAR
