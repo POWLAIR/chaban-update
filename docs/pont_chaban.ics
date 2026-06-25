@@ -457,21 +457,12 @@ DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 16:34\nReouver
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - ILMA
-DTSTART;TZID=Europe/Paris:20260627T053400
-DTEND;TZID=Europe/Paris:20260627T065700
-UID:53c2c54b-b961-566f-909c-764e396c07b8
-DESCRIPTION:Bateau : ILMA\nType   : Totale\nFermeture   : 05:34\nReouvertu
- re : 06:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - ILMA
-DTSTART;TZID=Europe/Paris:20260628T190400
-DTEND;TZID=Europe/Paris:20260628T202700
-UID:59d97694-eaa6-5ddf-adcb-e5d4897dc5ab
-DESCRIPTION:Bateau : ILMA\nType   : Totale\nFermeture   : 19:04\nReouvertu
- re : 20:27
+SUMMARY:Pont Chaban ferme - KHALANI
+DTSTART;TZID=Europe/Paris:20260627T160400
+DTEND;TZID=Europe/Paris:20260627T172700
+UID:df144b04-0bf3-5234-b03e-05fba3b3d95d
+DESCRIPTION:Bateau : KHALANI\nType   : Totale\nFermeture   : 16:04\nReouve
+ rture : 17:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -905,6 +896,15 @@ DTEND;TZID=Europe/Paris:20261019T125700
 UID:c6255a85-3f9e-5750-94e6-29dc845af7ef
 DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 11:34\nRe
  ouverture : 12:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMERA
+DTSTART;TZID=Europe/Paris:20261022T163400
+DTEND;TZID=Europe/Paris:20261022T175700
+UID:5a104191-2b6f-53c2-98c8-d31fbc9dfc47
+DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:34\nReouvert
+ ure : 17:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 END:VCALENDAR
