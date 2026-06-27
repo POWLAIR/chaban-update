@@ -448,24 +448,6 @@ DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 02:49\nReouver
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - EVRIMA
-DTSTART;TZID=Europe/Paris:20260625T163400
-DTEND;TZID=Europe/Paris:20260625T175700
-UID:1f64f5d0-77ee-5175-9667-904f290fb7ad
-DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 16:34\nReouver
- ture : 17:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - KHALANI
-DTSTART;TZID=Europe/Paris:20260627T160400
-DTEND;TZID=Europe/Paris:20260627T172700
-UID:df144b04-0bf3-5234-b03e-05fba3b3d95d
-DESCRIPTION:Bateau : KHALANI\nType   : Totale\nFermeture   : 16:04\nReouve
- rture : 17:27
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - CRYSTAL SERENITY - BELEM
 DTSTART;TZID=Europe/Paris:20260702T084900
 DTEND;TZID=Europe/Paris:20260702T102700
@@ -905,6 +887,15 @@ DTEND;TZID=Europe/Paris:20261022T175700
 UID:5a104191-2b6f-53c2-98c8-d31fbc9dfc47
 DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:34\nReouvert
  ure : 17:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AMERA
+DTSTART;TZID=Europe/Paris:20261023T164900
+DTEND;TZID=Europe/Paris:20261023T181200
+UID:25a0242e-38f1-5789-b07b-9b2697969858
+DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:49\nReouvert
+ ure : 18:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 END:VCALENDAR
