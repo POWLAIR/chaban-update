@@ -448,6 +448,15 @@ DESCRIPTION:Bateau : EVRIMA\nType   : Totale\nFermeture   : 02:49\nReouver
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260629T220000
+DTEND;TZID=Europe/Paris:20260629T050000
+UID:f786b57a-74e6-5e0d-b2cf-ac20a426bf5b
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 22:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - CRYSTAL SERENITY - BELEM
 DTSTART;TZID=Europe/Paris:20260702T084900
 DTEND;TZID=Europe/Paris:20260702T102700
