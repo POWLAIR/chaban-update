@@ -475,24 +475,6 @@ DESCRIPTION:Bateau : CRYSTAL SERENITY\nType   : Totale\nFermeture   : 10:0
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - BELEM - BALMORAL
-DTSTART;TZID=Europe/Paris:20260706T103400
-DTEND;TZID=Europe/Paris:20260706T124200
-UID:b3f30f06-185e-5a01-8110-d9f082744747
-DESCRIPTION:Bateau : BELEM - BALMORAL\nType   : Totale\nFermeture   : 10:3
- 4\nReouverture : 12:42
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - BALMORAL
-DTSTART;TZID=Europe/Paris:20260708T233400
-DTEND;TZID=Europe/Paris:20260708T005700
-UID:63b73bf5-bbfb-5fbb-aed4-3bb9787b5129
-DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 23:34\nReouv
- erture : 00:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SEVEN SEAS NAVIGATOR
 DTSTART;TZID=Europe/Paris:20260712T053400
 DTEND;TZID=Europe/Paris:20260712T064200
