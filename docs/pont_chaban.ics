@@ -475,66 +475,12 @@ DESCRIPTION:Bateau : CRYSTAL SERENITY\nType   : Totale\nFermeture   : 10:0
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SEVEN SEAS NAVIGATOR
-DTSTART;TZID=Europe/Paris:20260712T053400
-DTEND;TZID=Europe/Paris:20260712T064200
-UID:224d9732-fdc6-59d8-a735-c7cb91468091
-DESCRIPTION:Bateau : SEVEN SEAS NAVIGATOR\nType   : Totale\nFermeture   : 
- 05:34\nReouverture : 06:42
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SEVEN SEAS NAVIGATOR
-DTSTART;TZID=Europe/Paris:20260713T173400
-DTEND;TZID=Europe/Paris:20260713T185700
-UID:f8e243d0-283c-5b3c-a278-c13c212a95d7
-DESCRIPTION:Bateau : SEVEN SEAS NAVIGATOR\nType   : Totale\nFermeture   : 
- 17:34\nReouverture : 18:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SCENIC ECLIPSE II
-DTSTART;TZID=Europe/Paris:20260719T111900
-DTEND;TZID=Europe/Paris:20260719T122700
-UID:807159e4-1e82-5aa2-98c2-7e2126260b05
-DESCRIPTION:Bateau : SCENIC ECLIPSE II\nType   : Totale\nFermeture   : 11:
- 19\nReouverture : 12:27
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SCENIC ECLIPSE II
-DTSTART;TZID=Europe/Paris:20260721T120400
-DTEND;TZID=Europe/Paris:20260721T132700
-UID:431697be-7aa3-5aa8-b0b1-8625f5d7fcbe
-DESCRIPTION:Bateau : SCENIC ECLIPSE II\nType   : Totale\nFermeture   : 12:
- 04\nReouverture : 13:27
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SEVEN SEAS VOYAGER
-DTSTART;TZID=Europe/Paris:20260723T011900
-DTEND;TZID=Europe/Paris:20260723T024200
-UID:37663ae9-cd23-5f56-b4d2-7948dbc59260
-DESCRIPTION:Bateau : SEVEN SEAS VOYAGER\nType   : Totale\nFermeture   : 01
- :19\nReouverture : 02:42
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SEVEN SEAS VOYAGER
-DTSTART;TZID=Europe/Paris:20260724T153400
-DTEND;TZID=Europe/Paris:20260724T165700
-UID:06dea2ba-a56e-5933-b1d7-a1f1e0fa79a8
-DESCRIPTION:Bateau : SEVEN SEAS VOYAGER\nType   : Totale\nFermeture   : 15
- :34\nReouverture : 16:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - MAINTENANCE
-DTSTART;TZID=Europe/Paris:20260726T163000
-DTEND;TZID=Europe/Paris:20260726T223000
-UID:8ccf6f1d-e05f-555e-a48c-76009037b2a3
-DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 16:30\nRe
- ouverture : 22:30
+SUMMARY:Pont Chaban ferme - BELEM
+DTSTART;TZID=Europe/Paris:20260709T050000
+DTEND;TZID=Europe/Paris:20260709T073000
+UID:6fc29618-9880-51ec-a408-a9e6d53cce6b
+DESCRIPTION:Bateau : BELEM\nType   : Totale\nFermeture   : 05:00\nReouvert
+ ure : 07:30
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
