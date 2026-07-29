@@ -485,24 +485,6 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260803T103400
-DTEND;TZID=Europe/Paris:20260803T115700
-UID:3829f3cd-d3d8-53ba-a41f-d9ac96f006f3
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 10:34\nReouve
- rture : 11:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260803T220400
-DTEND;TZID=Europe/Paris:20260803T232700
-UID:3829f3cd-d3d8-53ba-a41f-d9ac96f006f3
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 22:04\nReouve
- rture : 23:27
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AIDASOL
 DTSTART;TZID=Europe/Paris:20260814T083400
 DTEND;TZID=Europe/Paris:20260814T095700
 UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
