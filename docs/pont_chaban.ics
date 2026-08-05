@@ -484,6 +484,15 @@ DESCRIPTION:Bateau : BELEM\nType   : Totale\nFermeture   : 05:00\nReouvert
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260809T230000
+DTEND;TZID=Europe/Paris:20260809T050000
+UID:fc9c220c-201c-505d-bec3-f5fa1c01eee7
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
 DTSTART;TZID=Europe/Paris:20260814T083400
 DTEND;TZID=Europe/Paris:20260814T095700
