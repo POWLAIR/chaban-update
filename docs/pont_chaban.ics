@@ -494,15 +494,6 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260814T083400
-DTEND;TZID=Europe/Paris:20260814T095700
-UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 08:34\nReouve
- rture : 09:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AIDASOL
 DTSTART;TZID=Europe/Paris:20260814T194900
 DTEND;TZID=Europe/Paris:20260814T211200
 UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
@@ -511,21 +502,21 @@ DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 19:49\nReouve
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
-DTSTART;TZID=Europe/Paris:20260822T150400
-DTEND;TZID=Europe/Paris:20260822T161200
-UID:42b8d3e0-3590-5235-9538-30b7ef929aa5
-DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 15:04\
- nReouverture : 16:12
+SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260814T090400
+DTEND;TZID=Europe/Paris:20260814T102700
+UID:7805a61c-5860-5c8e-ac8f-2c1bc6c241bd
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 09:04\nReouve
+ rture : 10:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AZAMARA QUEST
-DTSTART;TZID=Europe/Paris:20260823T034900
-DTEND;TZID=Europe/Paris:20260823T045700
-UID:553a7564-ee16-5ca8-bdc7-e46548dcf43c
-DESCRIPTION:Bateau : AZAMARA QUEST\nType   : Totale\nFermeture   : 03:49\n
- Reouverture : 04:57
+SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
+DTSTART;TZID=Europe/Paris:20260822T152900
+DTEND;TZID=Europe/Paris:20260822T163700
+UID:42b8d3e0-3590-5235-9538-30b7ef929aa5
+DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 15:29\
+ nReouverture : 16:37
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -538,12 +529,21 @@ DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 14:04\
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AZAMARA QUEST
+DTSTART;TZID=Europe/Paris:20260823T041900
+DTEND;TZID=Europe/Paris:20260823T052700
+UID:553a7564-ee16-5ca8-bdc7-e46548dcf43c
+DESCRIPTION:Bateau : AZAMARA QUEST\nType   : Totale\nFermeture   : 04:19\n
+ Reouverture : 05:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AZAMARA QUEST - STAR LEGEND
 DTSTART;TZID=Europe/Paris:20260825T174900
-DTEND;TZID=Europe/Paris:20260825T194200
+DTEND;TZID=Europe/Paris:20260825T195700
 UID:9d722f34-c174-57ee-ad63-ca53b687e843
 DESCRIPTION:Bateau : AZAMARA QUEST - STAR LEGEND\nType   : Totale\nFermetu
- re   : 17:49\nReouverture : 19:42
+ re   : 17:49\nReouverture : 19:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -557,11 +557,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - EVRIMA - SILVER SPIRIT
-DTSTART;TZID=Europe/Paris:20260831T091400
-DTEND;TZID=Europe/Paris:20260831T113200
+DTSTART;TZID=Europe/Paris:20260831T094400
+DTEND;TZID=Europe/Paris:20260831T120200
 UID:caa068de-be90-546a-9673-aa5e34cdd4c7
 DESCRIPTION:Bateau : EVRIMA - SILVER SPIRIT\nType   : Totale\nFermeture   
- : 09:14\nReouverture : 11:32
+ : 09:44\nReouverture : 12:02
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -584,11 +584,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - BALMORAL
-DTSTART;TZID=Europe/Paris:20260907T034900
-DTEND;TZID=Europe/Paris:20260907T051200
+DTSTART;TZID=Europe/Paris:20260907T041900
+DTEND;TZID=Europe/Paris:20260907T054200
 UID:ffd86aa6-e595-546a-b770-3f9290cdcb3b
-DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 03:49\nReouv
- erture : 05:12
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 04:19\nReouv
+ erture : 05:42
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -611,11 +611,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SEVEN SEAS MARINER
-DTSTART;TZID=Europe/Paris:20260910T070400
-DTEND;TZID=Europe/Paris:20260910T082700
+DTSTART;TZID=Europe/Paris:20260910T071900
+DTEND;TZID=Europe/Paris:20260910T084200
 UID:92f2dc50-4a2b-5e3e-883c-c8567d7b8b36
 DESCRIPTION:Bateau : SEVEN SEAS MARINER\nType   : Totale\nFermeture   : 07
- :04\nReouverture : 08:27
+ :19\nReouverture : 08:42
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -638,11 +638,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SILVER SPIRIT
-DTSTART;TZID=Europe/Paris:20260912T081900
-DTEND;TZID=Europe/Paris:20260912T094200
+DTSTART;TZID=Europe/Paris:20260912T084900
+DTEND;TZID=Europe/Paris:20260912T101200
 UID:04e5e542-1f72-5d17-b737-b6929696dfed
-DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 08:19\n
- Reouverture : 09:42
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 08:49\n
+ Reouverture : 10:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -665,11 +665,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260914T090400
-DTEND;TZID=Europe/Paris:20260914T102700
+DTSTART;TZID=Europe/Paris:20260914T094900
+DTEND;TZID=Europe/Paris:20260914T111200
 UID:760b2573-66e0-5a5d-aaa2-625d544be6be
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 09:04\nReouve
- rture : 10:27
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 09:49\nReouve
+ rture : 11:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -683,11 +683,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - MARINA
-DTSTART;TZID=Europe/Paris:20260919T121900
-DTEND;TZID=Europe/Paris:20260919T134200
+DTSTART;TZID=Europe/Paris:20260919T124900
+DTEND;TZID=Europe/Paris:20260919T141200
 UID:5dc5579c-10a2-5b60-8774-31ba87e594be
-DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 12:19\nReouver
- ture : 13:42
+DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 12:49\nReouver
+ ture : 14:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -700,12 +700,39 @@ DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 13:34\nReouver
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BALMORAL
+DTSTART;TZID=Europe/Paris:20260921T030400
+DTEND;TZID=Europe/Paris:20260921T042700
+UID:1ef2dbdd-87dd-5a21-acce-a746738adeae
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 03:04\nReouv
+ erture : 04:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - BALMORAL
+DTSTART;TZID=Europe/Paris:20260922T150400
+DTEND;TZID=Europe/Paris:20260922T162700
+UID:11740728-1ff9-5865-a256-cb28df2c7fbe
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 15:04\nReouv
+ erture : 16:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SILVER DAWN
-DTSTART;TZID=Europe/Paris:20260923T044900
-DTEND;TZID=Europe/Paris:20260923T061200
+DTSTART;TZID=Europe/Paris:20260923T053400
+DTEND;TZID=Europe/Paris:20260923T065700
 UID:fbcbbb4f-c8f9-575f-bbd2-c4e221291c9b
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 04:49\nRe
- ouverture : 06:12
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 05:34\nRe
+ ouverture : 06:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - INSIGNA
+DTSTART;TZID=Europe/Paris:20260925T070400
+DTEND;TZID=Europe/Paris:20260925T081200
+UID:089e41b3-01d2-5852-bdd9-266aa8e34a07
+DESCRIPTION:Bateau : INSIGNA\nType   : Totale\nFermeture   : 07:04\nReouve
+ rture : 08:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -715,15 +742,6 @@ DTEND;TZID=Europe/Paris:20260925T191200
 UID:d5373659-1f72-527a-b725-6c421d8915fc
 DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:49\nRe
  ouverture : 19:12
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - INSIGNA
-DTSTART;TZID=Europe/Paris:20260925T061900
-DTEND;TZID=Europe/Paris:20260925T072700
-UID:089e41b3-01d2-5852-bdd9-266aa8e34a07
-DESCRIPTION:Bateau : INSIGNA\nType   : Totale\nFermeture   : 06:19\nReouve
- rture : 07:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
