@@ -524,8 +524,8 @@ SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
 DTSTART;TZID=Europe/Paris:20260822T152900
 DTEND;TZID=Europe/Paris:20260822T163700
 UID:42b8d3e0-3590-5235-9538-30b7ef929aa5
-DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 15:29\
- nReouverture : 16:37
+DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 15:29
+ \nReouverture : 16:37
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -533,8 +533,8 @@ SUMMARY:Pont Chaban ferme - MV DEUTSCHLAND
 DTSTART;TZID=Europe/Paris:20260823T140400
 DTEND;TZID=Europe/Paris:20260823T152700
 UID:4c382a53-089c-5720-99cc-78bc69db50c3
-DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 14:04\
- nReouverture : 15:27
+DESCRIPTION:Bateau : MV DEUTSCHLAND\nType   : Totale\nFermeture   : 14:04
+ \nReouverture : 15:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
