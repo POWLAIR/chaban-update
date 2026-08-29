@@ -566,11 +566,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - EVRIMA - SILVER SPIRIT
-DTSTART;TZID=Europe/Paris:20260831T094400
-DTEND;TZID=Europe/Paris:20260831T120200
+DTSTART;TZID=Europe/Paris:20260831T093400
+DTEND;TZID=Europe/Paris:20260831T115200
 UID:caa068de-be90-546a-9673-aa5e34cdd4c7
 DESCRIPTION:Bateau : EVRIMA - SILVER SPIRIT\nType   : Totale\nFermeture   
- : 09:44\nReouverture : 12:02
+ : 09:34\nReouverture : 11:52
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
