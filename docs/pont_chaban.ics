@@ -593,11 +593,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - BALMORAL
-DTSTART;TZID=Europe/Paris:20260907T041900
-DTEND;TZID=Europe/Paris:20260907T054200
+DTSTART;TZID=Europe/Paris:20260907T035400
+DTEND;TZID=Europe/Paris:20260907T051700
 UID:ffd86aa6-e595-546a-b770-3f9290cdcb3b
-DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 04:19\nReouv
- erture : 05:42
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 03:54\nReouv
+ erture : 05:17
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -620,11 +620,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SEVEN SEAS MARINER
-DTSTART;TZID=Europe/Paris:20260910T071900
-DTEND;TZID=Europe/Paris:20260910T084200
+DTSTART;TZID=Europe/Paris:20260910T071400
+DTEND;TZID=Europe/Paris:20260910T083700
 UID:92f2dc50-4a2b-5e3e-883c-c8567d7b8b36
 DESCRIPTION:Bateau : SEVEN SEAS MARINER\nType   : Totale\nFermeture   : 07
- :19\nReouverture : 08:42
+ :14\nReouverture : 08:37
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -647,11 +647,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SILVER SPIRIT
-DTSTART;TZID=Europe/Paris:20260912T084900
-DTEND;TZID=Europe/Paris:20260912T101200
+DTSTART;TZID=Europe/Paris:20260912T083400
+DTEND;TZID=Europe/Paris:20260912T095700
 UID:04e5e542-1f72-5d17-b737-b6929696dfed
-DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 08:49\n
- Reouverture : 10:12
+DESCRIPTION:Bateau : SILVER SPIRIT\nType   : Totale\nFermeture   : 08:34\n
+ Reouverture : 09:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -665,20 +665,20 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
+DTSTART;TZID=Europe/Paris:20260914T093900
+DTEND;TZID=Europe/Paris:20260914T110200
+UID:760b2573-66e0-5a5d-aaa2-625d544be6be
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 09:39\nReouve
+ rture : 11:02
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - AIDASOL
 DTSTART;TZID=Europe/Paris:20260914T204900
 DTEND;TZID=Europe/Paris:20260914T221200
 UID:760b2573-66e0-5a5d-aaa2-625d544be6be
 DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 20:49\nReouve
  rture : 22:12
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260914T094900
-DTEND;TZID=Europe/Paris:20260914T111200
-UID:760b2573-66e0-5a5d-aaa2-625d544be6be
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 09:49\nReouve
- rture : 11:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
