@@ -674,11 +674,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
-DTSTART;TZID=Europe/Paris:20260914T204900
-DTEND;TZID=Europe/Paris:20260914T221200
+DTSTART;TZID=Europe/Paris:20260914T213400
+DTEND;TZID=Europe/Paris:20260914T225700
 UID:760b2573-66e0-5a5d-aaa2-625d544be6be
-DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 20:49\nReouve
- rture : 22:12
+DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 21:34\nReouve
+ rture : 22:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
