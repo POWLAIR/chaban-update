@@ -675,10 +675,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AIDASOL
 DTSTART;TZID=Europe/Paris:20260914T213400
-DTEND;TZID=Europe/Paris:20260914T225700
+DTEND;TZID=Europe/Paris:20260914T010000
 UID:760b2573-66e0-5a5d-aaa2-625d544be6be
 DESCRIPTION:Bateau : AIDASOL\nType   : Totale\nFermeture   : 21:34\nReouve
- rture : 22:57
+ rture : 01:00
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -688,6 +688,15 @@ DTEND;TZID=Europe/Paris:20260915T102700
 UID:915fa45d-49c0-54b1-8c0a-ab8ff0c7b3fe
 DESCRIPTION:Bateau : OOSTERSCHELDE\nType   : Totale\nFermeture   : 09:04\n
  Reouverture : 10:27
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20260917T230000
+DTEND;TZID=Europe/Paris:20260917T050000
+UID:df634d6e-0e9d-5566-9457-049d947c0e1e
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
