@@ -691,21 +691,21 @@ DESCRIPTION:Bateau : OOSTERSCHELDE\nType   : Totale\nFermeture   : 09:04\n
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - MARINA
+SUMMARY:Pont Chaban ferme - MARINA - AUGUSTIN FRESNEL
 DTSTART;TZID=Europe/Paris:20260919T124900
-DTEND;TZID=Europe/Paris:20260919T141200
-UID:5dc5579c-10a2-5b60-8774-31ba87e594be
-DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 12:49\nReouver
- ture : 14:12
+DTEND;TZID=Europe/Paris:20260919T141700
+UID:f6878387-c80b-5c4a-9f15-3a1daa3ccdd1
+DESCRIPTION:Bateau : MARINA - AUGUSTIN FRESNEL\nType   : Totale\nFermeture
+    : 12:49\nReouverture : 14:17
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - MARINA
+SUMMARY:Pont Chaban ferme - MARINA - AUGUSTIN FRESNEL
 DTSTART;TZID=Europe/Paris:20260920T133400
-DTEND;TZID=Europe/Paris:20260920T145700
-UID:df1bbca0-ae02-5612-bf74-21345e59b7cd
-DESCRIPTION:Bateau : MARINA\nType   : Totale\nFermeture   : 13:34\nReouver
- ture : 14:57
+DTEND;TZID=Europe/Paris:20260920T150200
+UID:38a85991-4226-5a10-bb86-abf2f615f561
+DESCRIPTION:Bateau : MARINA - AUGUSTIN FRESNEL\nType   : Totale\nFermeture
+    : 13:34\nReouverture : 15:02
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -819,11 +819,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SILVER DAWN
-DTSTART;TZID=Europe/Paris:20261007T170400
-DTEND;TZID=Europe/Paris:20261007T182700
-UID:61e534e9-6baf-5225-9d4a-81145effd116
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:04\nRe
- ouverture : 18:27
+DTSTART;TZID=Europe/Paris:20261008T054900
+DTEND;TZID=Europe/Paris:20261008T071200
+UID:2d3cd0a7-f47a-576e-a584-4724dbdb8f96
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 05:49\nRe
+ ouverture : 07:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
