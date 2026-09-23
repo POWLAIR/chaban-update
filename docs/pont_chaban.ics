@@ -719,11 +719,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - BALMORAL
-DTSTART;TZID=Europe/Paris:20260922T150400
-DTEND;TZID=Europe/Paris:20260922T162700
+DTSTART;TZID=Europe/Paris:20260922T160400
+DTEND;TZID=Europe/Paris:20260922T172700
 UID:11740728-1ff9-5865-a256-cb28df2c7fbe
-DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 15:04\nReouv
- erture : 16:27
+DESCRIPTION:Bateau : BALMORAL\nType   : Totale\nFermeture   : 16:04\nReouv
+ erture : 17:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -764,20 +764,20 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LE LAPEROUSE
-DTSTART;TZID=Europe/Paris:20261001T210400
-DTEND;TZID=Europe/Paris:20261001T221200
+DTSTART;TZID=Europe/Paris:20261001T223400
+DTEND;TZID=Europe/Paris:20261001T234200
 UID:8e433730-cb9a-5fbf-88c8-f5300cbcf4a4
-DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 21:04\nR
- eouverture : 22:12
+DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 22:34\nR
+ eouverture : 23:42
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LE LAPEROUSE
-DTSTART;TZID=Europe/Paris:20261002T183400
-DTEND;TZID=Europe/Paris:20261002T195700
+DTSTART;TZID=Europe/Paris:20261002T191900
+DTEND;TZID=Europe/Paris:20261002T204200
 UID:e55f8efe-2459-5f05-ae84-b3bd6a6d1e1d
-DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 18:34\nR
- eouverture : 19:57
+DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 19:19\nR
+ eouverture : 20:42
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -818,12 +818,12 @@ DESCRIPTION:Bateau : WORLD VOYAGER\nType   : Totale\nFermeture   : 16:19\n
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SILVER DAWN
+SUMMARY:Pont Chaban ferme - SILVER DAWN - LA BELLE POULE
 DTSTART;TZID=Europe/Paris:20261008T054900
 DTEND;TZID=Europe/Paris:20261008T071200
-UID:2d3cd0a7-f47a-576e-a584-4724dbdb8f96
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 05:49\nRe
- ouverture : 07:12
+UID:5d7cfcfe-5836-51c1-8594-8aaaa35e8d07
+DESCRIPTION:Bateau : SILVER DAWN - LA BELLE POULE\nType   : Totale\nFermet
+ ure   : 05:49\nReouverture : 07:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -833,6 +833,15 @@ DTEND;TZID=Europe/Paris:20261009T185700
 UID:56cd30e4-9430-5e55-a17c-2c55a3bcfabc
 DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 17:34\nRe
  ouverture : 18:57
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - LA BELLE POULE
+DTSTART;TZID=Europe/Paris:20261010T194900
+DTEND;TZID=Europe/Paris:20261010T211200
+UID:8eacabec-daae-5502-be2a-0de8751080a4
+DESCRIPTION:Bateau : LA BELLE POULE\nType   : Totale\nFermeture   : 19:49
+ \nReouverture : 21:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
