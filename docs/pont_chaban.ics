@@ -764,11 +764,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LE LAPEROUSE
-DTSTART;TZID=Europe/Paris:20261001T223400
-DTEND;TZID=Europe/Paris:20261001T234200
+DTSTART;TZID=Europe/Paris:20261001T164900
+DTEND;TZID=Europe/Paris:20261001T175700
 UID:8e433730-cb9a-5fbf-88c8-f5300cbcf4a4
-DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 22:34\nR
- eouverture : 23:42
+DESCRIPTION:Bateau : LE LAPEROUSE\nType   : Totale\nFermeture   : 16:49\nR
+ eouverture : 17:57
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
