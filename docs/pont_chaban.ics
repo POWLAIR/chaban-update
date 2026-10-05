@@ -791,10 +791,10 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - VIKING SATURN
-DTSTART;TZID=Europe/Paris:20261004T131900
+DTSTART;TZID=Europe/Paris:20261004T130400
 DTEND;TZID=Europe/Paris:20261004T142700
 UID:3fda356a-e17e-52e9-903d-2f5bf32a61bf
-DESCRIPTION:Bateau : VIKING SATURN\nType   : Totale\nFermeture   : 13:19\n
+DESCRIPTION:Bateau : VIKING SATURN\nType   : Totale\nFermeture   : 13:04\n
  Reouverture : 14:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
@@ -837,9 +837,9 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LA BELLE POULE
-DTSTART;TZID=Europe/Paris:20261010T194900
-DTEND;TZID=Europe/Paris:20261010T211200
-UID:8eacabec-daae-5502-be2a-0de8751080a4
+DTSTART;TZID=Europe/Paris:20261011T194900
+DTEND;TZID=Europe/Paris:20261011T211200
+UID:c20dec68-0bee-5154-b66f-dc19aa2d2445
 DESCRIPTION:Bateau : LA BELLE POULE\nType   : Totale\nFermeture   : 19:49
  \nReouverture : 21:12
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
