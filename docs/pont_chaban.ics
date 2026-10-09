@@ -837,11 +837,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - LA BELLE POULE
-DTSTART;TZID=Europe/Paris:20261011T194900
-DTEND;TZID=Europe/Paris:20261011T211200
+DTSTART;TZID=Europe/Paris:20261011T190400
+DTEND;TZID=Europe/Paris:20261011T202700
 UID:c20dec68-0bee-5154-b66f-dc19aa2d2445
-DESCRIPTION:Bateau : LA BELLE POULE\nType   : Totale\nFermeture   : 19:49
- \nReouverture : 21:12
+DESCRIPTION:Bateau : LA BELLE POULE\nType   : Totale\nFermeture   : 19:04
+ \nReouverture : 20:27
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
@@ -878,6 +878,24 @@ DTEND;TZID=Europe/Paris:20261023T181200
 UID:25a0242e-38f1-5789-b07b-9b2697969858
 DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:49\nReouvert
  ure : 18:12
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20261115T230000
+DTEND;TZID=Europe/Paris:20261115T050000
+UID:657b01a0-fe67-54f7-b3bd-033cb75e33de
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MAINTENANCE
+DTSTART;TZID=Europe/Paris:20261213T230000
+DTEND;TZID=Europe/Paris:20261213T050000
+UID:f707ece6-3c8f-58fe-8425-51defd0894c7
+DESCRIPTION:Bateau : MAINTENANCE\nType   : Totale\nFermeture   : 23:00\nRe
+ ouverture : 05:00
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 END:VCALENDAR
