@@ -846,11 +846,11 @@ LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - SILVER DAWN
-DTSTART;TZID=Europe/Paris:20261017T103400
-DTEND;TZID=Europe/Paris:20261017T115700
+DTSTART;TZID=Europe/Paris:20261017T230300
+DTEND;TZID=Europe/Paris:20261017T002600
 UID:a6114e0a-5bb8-513e-9a6f-df40d50e1e2a
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 10:34\nRe
- ouverture : 11:57
+DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 23:03\nRe
+ ouverture : 00:26
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
