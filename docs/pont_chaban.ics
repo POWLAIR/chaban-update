@@ -845,24 +845,6 @@ DESCRIPTION:Bateau : LA BELLE POULE\nType   : Totale\nFermeture   : 19:04
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SILVER DAWN
-DTSTART;TZID=Europe/Paris:20261017T230300
-DTEND;TZID=Europe/Paris:20261017T002600
-UID:a6114e0a-5bb8-513e-9a6f-df40d50e1e2a
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 23:03\nRe
- ouverture : 00:26
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pont Chaban ferme - SILVER DAWN
-DTSTART;TZID=Europe/Paris:20261019T113400
-DTEND;TZID=Europe/Paris:20261019T125700
-UID:c6255a85-3f9e-5750-94e6-29dc845af7ef
-DESCRIPTION:Bateau : SILVER DAWN\nType   : Totale\nFermeture   : 11:34\nRe
- ouverture : 12:57
-LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - AMERA
 DTSTART;TZID=Europe/Paris:20261022T163400
 DTEND;TZID=Europe/Paris:20261022T175700
