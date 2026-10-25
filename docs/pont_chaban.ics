@@ -863,6 +863,15 @@ DESCRIPTION:Bateau : AMERA\nType   : Totale\nFermeture   : 16:49\nReouvert
 LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pont Chaban ferme - MARATHON DE BORDEAUX
+DTSTART;TZID=Europe/Paris:20261108T070000
+DTEND;TZID=Europe/Paris:20261108T150000
+UID:5d9dbb91-c3cc-57bf-a7ff-2698b3e058a9
+DESCRIPTION:Bateau : MARATHON DE BORDEAUX\nType   : Totale\nFermeture   : 
+ 07:00\nReouverture : 15:00
+LOCATION:Pont Chaban-Delmas\, Bordeaux\, France
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pont Chaban ferme - MAINTENANCE
 DTSTART;TZID=Europe/Paris:20261115T230000
 DTEND;TZID=Europe/Paris:20261115T050000
